@@ -15,9 +15,9 @@ group :test do
 	gem 'autotest-growl', '0.2.9'
 	gem 'autotest', '4.4.6'
 	gem 'autotest-rails-pure', '4.1.2'
-	gem 'ruby-snarl', '0.0.8'
-	gem 'autotest-snarl', '0.0.4'
-	gem 'net-snarl', '0.0.1'
+	# gem 'ruby-snarl', '0.0.8'
+	# gem 'autotest-snarl', '0.0.4'
+	# gem 'net-snarl', '0.0.1'
 	gem 'autotest-notification', '~> 2.3.3'
 end
 
